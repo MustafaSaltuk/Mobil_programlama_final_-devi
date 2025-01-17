@@ -1,0 +1,13 @@
+input{
+  margin-bottom: 6px !important;
+}
+
+select{
+  margin-bottom: 6px !important;
+}
+
+.table {
+  overflow: auto;
+  display: block;
+  table-layout: auto;
+}
